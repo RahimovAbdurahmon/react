@@ -329,14 +329,16 @@ npm install formik --save
 ```
 npm install formik yup
 ```
-
-
-
-
-
-
-
-
-
-
-start from router
+># Install react-router
+```
+npm i react-router-dom
+```
+># Redux-toolkit
+```
+npm install @reduxjs/toolkit
+npm install react-redux
+```
+># Jwt-decode
+```
+npm i jwt-decode
+```
