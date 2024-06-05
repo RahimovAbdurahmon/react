@@ -6,15 +6,35 @@
  npm start 
 ```
 ># This is a React vite
+
+- For create vite file
 ```
-1. For create vite file: npm create vite@latest
-2. Name of vite file: vite project (or you can click . to do not create file)
-3. Select framework: React
-4. Java script (or you can choose Type script)
-5. cd vite project (we go into file)
-6. npm install (npm i)
-7. npm run dev (or can code . to go in file)
+npm create vite@latest
 ```
+- Name of vite file (or you can click . to do not create file)
+```
+vite project
+```
+- Select framework
+```
+React
+```
+```
+Java script
+```
+- Or you can choose Type script
+```
+cd vite-project
+```
+- We go into file if we created
+```
+npm install
+```
+- Then go into file
+```
+code .
+```
+
 # Let's install libraris in our file
 - You can put the link in terminal or bash
 ># Installing Tailwind Tailwind
